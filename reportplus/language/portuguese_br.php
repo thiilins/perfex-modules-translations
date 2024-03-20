@@ -2,8 +2,8 @@
 
 # Versão 1.0.0
 
-$lang['report_plus'] = 'RelatórioMais';
-$lang['reportplus'] = 'RelatórioMais';
+$lang['report_plus'] = 'ReportPlus';
+$lang['reportplus'] = 'ReportPlus';
 $lang['reportplus_generated_reports'] = 'RelatórioMais - Relatórios Gerados';
 $lang['reportplus_total_customers'] = 'Total de Clientes';
 $lang['reportplus_reports'] = 'Relatórios';
